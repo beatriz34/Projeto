@@ -1,0 +1,89 @@
+#home{
+    background-color: #8AB5B2;
+}
+.logar {
+    right: 0;
+    text-align: right;
+    padding-top: 8pt;
+    padding-right: 5pt;
+    border: none;
+}
+.logar button{
+    background-color: #005953;
+    color: #FFFFFF;
+    font-size: 10pt;
+    border-radius: 20pt;
+    border-color:#005953 ;
+    height: 20pt;
+    width: 75pt;
+}
+.logar button:hover{
+    background-color: #577c7a;
+}
+#barra-baixo{
+    background-color: #577c7a;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 60pt;
+    width: 100%;
+}
+#propaganda{
+    height: 80pt;
+    width: 100%;
+    padding-top: 30pt;
+}
+.prop1{
+    display: inline-block;
+    height: 70pt;
+    width: 135pt;
+    background-color: rgb(255, 255, 255);
+}
+.prop1 img{
+    height: 70pt;
+    width: 135pt;
+}
+.prop2{
+    display: inline-block;
+    height: 70pt;
+    width: 135pt;
+    background-color: rgb(255, 255, 255);
+    margin-left: 25pt;
+}
+.prop2 img{
+    height: 70pt;
+    width: 135pt;
+}
+.logo{
+    position: relative;
+    text-align: center;
+    padding-top: 3%;
+}
+.logo img{
+    width: 26%;
+}
+
+.buscador1 {
+    position: relative;
+    text-align: center;
+}
+
+.buscador2 input{
+    margin-top: 5%;
+    position: relative;
+    background-color: #FFFFFF;
+    width: 40%;
+    height: 22pt;
+    border-radius: 20pt;
+    border: none;
+}
+.buscador2 button{
+    margin-top: 5%;
+    position: relative;
+    background-color: #577C7A;
+    width: 7%;
+    height: 22pt;
+    border-radius: 20pt;
+    border: none;
+}
